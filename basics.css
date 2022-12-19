@@ -1,0 +1,54 @@
+
+#col1{
+    background-color:#DEB67A ;
+    width: 800px;
+    height: 200px;
+    margin-top: 60px;
+}
+#img1 {
+    border-radius: 100px;
+    height: 150px;
+    width: 150px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+#nam{
+    font-size: 50px;
+    margin-right: 90px;
+    color: black;
+    
+}
+ #con2{
+    background-color: #248355;
+    height: 700px;
+    width: 200px;
+    margin-right: 1100px;
+    margin-bottom: 1500px;
+    margin-left: 20px;
+   
+ }
+ #pro{
+    color: white;
+    margin-top: 80px;
+    margin-left: 30px;
+
+
+ }
+ #pro1{
+    color: white;
+    font-style: italic;
+ }
+ #con{
+    color: white;
+    margin-top: 80px;
+    margin-left: 30px;
+    
+ }
+ #con1{
+    color: white;
+    margin-left: 30px;
+    font-style: italic;
+ }
+ #edu{
+    color:black;
+ }
